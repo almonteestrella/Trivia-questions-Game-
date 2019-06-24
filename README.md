@@ -1,1 +1,2 @@
-# Trivia-questions-Game-
+# TriviaGame
+trivia game homework
